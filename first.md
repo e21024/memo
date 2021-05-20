@@ -1,9 +1,18 @@
-# heading 1
+# マークダウン記法
 
-## heading 2
+## リスト
 
-### heading 3
+### 順序リスト
 
-#### heading 4
+1.りんご
+    - ジュース
+    - あめ
+    - ぱい
+1.みかん
+1.なし
 
-##### heading 5
+### Unorder List
+
+-  Apple
+-  Orange
+-  Pear
