@@ -4,15 +4,19 @@
 
 ### 順序リスト
 
-1.りんご
-    - ジュース
-    - あめ
-    - ぱい
-1.みかん
-1.なし
+1. りんご
+    -  あめ
+    -　ジュース
+    -  パイ
+1. みかん
+1. なし
 
 ### Unorder List
 
 -  Apple
 -  Orange
 -  Pear
+
+## Link & Image
+
+[Omas teacher's girhub](http;//github.com/omas-public)
